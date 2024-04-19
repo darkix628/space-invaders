@@ -1,0 +1,12 @@
+/* Estilos CSS para el juego */
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+canvas {
+    display: block;
+    margin: auto;
+    background-color: black;
+}
